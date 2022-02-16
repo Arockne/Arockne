@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ye Ole Chatterbox](https://github.com/Arockne/ye-ole-chatterbox)
 
-- 🌱 I’m currently learning **Ruby on Rails, React**
+- 🌱 I’m currently learning **web sockets, action cable**
 
 - 📝 I regularly write articles on [https://medium.com/@Arockne](https://medium.com/@Arockne)
 
