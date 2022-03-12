@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Calvin</h1>
 <h3 align="center">I am passionate about developing applications as a software engineer</h3>
 
-- 🔭 I’m currently working on [Ye Ole Chatterbox](https://github.com/Arockne/ye-ole-chatterbox)
+- 🔭 I’m currently working on [dnd5e companion](https://github.com/Arockne/dnd5e-companian)
 
 - 🌱 I’m currently learning **redux and testing libraries**
 
