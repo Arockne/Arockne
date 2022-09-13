@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [dnd5e companion](https://github.com/Arockne/dnd5e-companian)
 
-- 🌱 I’m currently learning *Data Structures & Algorithms* and *Python*
+- 🌱 I’m currently learning *Data Structures & Algorithms* and *Data Engineering*
 
 - 📝 I regularly write articles on [https://medium.com/@Arockne](https://medium.com/@Arockne)
 
