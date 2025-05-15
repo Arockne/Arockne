@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on nothing at the moment
 
-- 🌱 I’m currently learning *Back-End*
+- 🌱 I’m currently learning more about the *Back-End*
 
 - 📫 How to reach me **daniel.joseph.calvin@gmail.com**
 
