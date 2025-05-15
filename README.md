@@ -1,11 +1,9 @@
 <h1 align="center">Hello, welcome to my Github page 🤖</h1>
 <h3 align="center">I am passionate about developing applications as a software engineer</h3>
 
-- 🔭 I’m currently working on [dnd5e companion](https://github.com/Arockne/dnd5e-companian)
+- 🔭 I’m currently working on nothing at the moment
 
-- 🌱 I’m currently learning *Cloud Computing* and *Data Engineering*
-
-- 📝 I regularly write articles on [https://medium.com/@Arockne](https://medium.com/@Arockne)
+- 🌱 I’m currently learning *Back-End*
 
 - 📫 How to reach me **daniel.joseph.calvin@gmail.com**
 
